@@ -88,7 +88,7 @@ function Resume() {
               <h4>Full Stack Developer ( Bodytech)</h4>
               <h5>Ene 2025- Actualidad</h5>
               <p>
-              As a full-stack developer at Bodytech, I was part of the team responsible for developing and maintaining web and mobile applications for the company. I used a variety of technologies, including Angular.js, JavaScript, CSS, Bootstrap, React, Laravel, and Python for deep learning projects, to deliver robust and scalable solutions that improved user experience and optimized the company's internal processes.
+              Senior developer with solid experience in designing and maintaining modern web architectures. He specializes in developing RESTful APIs using Laravel, as well as creating dynamic and responsive interfaces with React. He has led projects focused on the integration and consumption of third-party APIs and the implementation of custom CMS solutions. He also has experience in DevOps practices, managing cloud environments with Amazon Web Services (EC2, S3, RDS), ensuring efficient deployments, scalability, and high availability.
               </p>
             </div>
           </div>
