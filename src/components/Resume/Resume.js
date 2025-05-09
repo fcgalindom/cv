@@ -84,6 +84,13 @@ function Resume() {
                 efficiency.
               </p>
             </div>
+            <div className="resume-item">
+              <h4>Full Stack Developer ( Bodytech)</h4>
+              <h5>Ene 2025- Actualidad</h5>
+              <p>
+              As a full-stack developer at Bodytech, I was part of the team responsible for developing and maintaining web and mobile applications for the company. I used a variety of technologies, including Angular.js, JavaScript, CSS, Bootstrap, React, Laravel, and Python for deep learning projects, to deliver robust and scalable solutions that improved user experience and optimized the company's internal processes.
+              </p>
+            </div>
           </div>
         </div>
       </div>
